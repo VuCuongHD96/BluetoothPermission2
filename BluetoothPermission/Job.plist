@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>業種から口コミ・評判をさがす</key>
+	<string></string>
+	<key>インターネット・IT・通信関連</key>
+	<string>internet_it</string>
+	<key>金融関連</key>
+	<string>kinyu</string>
+	<key>流通・小売関連</key>
+	<string>ryutu_kouri</string>
+	<key>食品関連</key>
+	<string>food</string>
+	<key>電機・精密機器関連</key>
+	<string>denki</string>
+	<key>自動車・機械関連</key>
+	<string>car_kikai</string>
+	<key>化学・素材関連</key>
+	<string>kagaku_sozai</string>
+	<key>医薬品・日用品・その他メーカー関連</key>
+	<string>iyaku_nitiyou</string>
+	<key>不動産・建設関連</key>
+	<string>fudousan</string>
+	<key>マスコミ・出版・広告関連</key>
+	<string>koukoku</string>
+	<key>教育・医療・福祉関連</key>
+	<string>kyouiku_iryo</string>
+	<key>各種サービス関連</key>
+	<string>service</string>
+	<key>交通・運輸・エネルギー関連</key>
+	<string>koutu_unyu</string>
+	<key>官公庁・団体関連</key>
+	<string>kankoutyou</string>
+	<key>その他</key>
+	<string>other</string>
+</dict>
+</plist>
