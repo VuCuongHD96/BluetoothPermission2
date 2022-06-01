@@ -16,6 +16,6 @@ class ViewController: UIViewController {
         let a = LocationManager.shared
         print("----------", TimeZone.current)
         
-        
+        //this is test 2
     }
 }
